@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Larry Ray Haziel Flores Pachauri | Portafolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header class="hero">
+        <div class="container">
+            <h1>Soy Larry Ray Haziel Flores Pachauri</h1>
+            <p class="subtitle">Soy estudiante de Ciencias de la Computación de la UCSP</p>
+        </div>
+    </header>
+
+    <main class="container">
+        <section class="about-section">
+            <h2>Sobre mí</h2>
+            <p>Estoy en la etapa perfecta para absorber conocimientos, colaborar en proyectos desafiantes y aportar una perspectiva innovadora.</p>
+        </section>
+
+        <section class="skills-section">
+            <h2>Habilidades</h2>
+            <div class="skills-grid">
+                <div class="skill-card">
+                    <span class="skill-number">01</span>
+                    <p>Equilibro entregas y proyectos manteniendo los plazos bajo control.</p>
+                </div>
+                <div class="skill-card">
+                    <span class="skill-number">02</span>
+                    <p>Me apasiona estructurar ideas y resolver problemas complejos paso a paso.</p>
+                </div>
+                <div class="skill-card">
+                    <span class="skill-number">03</span>
+                    <p>Me entusiasma trabajar con gente nueva, escuchar ideas y sumar al grupo.</p>
+                </div>
+                <div class="skill-card">
+                    <span class="skill-number">04</span>
+                    <p>Me acoplo sin problemas a nuevos ritmos de trabajo, metodologías y entornos.</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2026 Larry Ray Haziel Flores Pachauri | Desarrollado con HTML y CSS</p>
+    </footer>
+
+</body>
+</html>
